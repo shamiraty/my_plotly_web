@@ -111,7 +111,7 @@ layout = html.Div(children=[
         ),
 
         dbc.Alert(
-            "Figure 1,2,3: Data exploration can be divided into data preprocessing and data visualization. For data preprocessing, we focus on four methods: univariate analysis, missing value treatment, outlier treatment, and collinearity treatment.",
+            " Data exploration can be divided into data preprocessing and data visualization. For data preprocessing, we focus on four methods: univariate analysis, missing value treatment, outlier treatment, and collinearity treatment.",
             id="alert-fade",
             dismissable=True,
             is_open=True,
